@@ -7,12 +7,140 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Reduced rat sightings and cleaner streets may be in the near future for West Harlem residents. As a part of a pilot program by the New York City Council, large containers have replaced bags of trash on select streets and school districts in West Harlem."
+          },
+          {
+            "type": "text",
+            "value": "In August, New York City council member Shaun Abreu, CC ’14, introduced the first containerization program to District 7. The $5.7 million pilot program looks to be the first step towards effectively containerizing trash in New York City and reducing the number of rat infestations. West Harlem residents started to see trash containers in front of their schools and apartments a week ago—but as more trash containers are installed in Harlem, residents say that the program brings both benefits and concerns."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "map_alt.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "John Delgado, a West Harlem resident who composts his own trash, said that the containerization initiative was a “positive move” for the community."
+          },
+          {
+            "type": "text",
+            "value": "“I noticed that as I’ve been composting, I don’t have to deal with any rats, mice, anything,” Delgado said."
+          },
+          {
+            "type": "text",
+            "value": "Sherly Batista, another West Harlem resident, said that the containerization made the streets a “little bit” cleaner."
+          },
+          {
+            "type": "text",
+            "value": "“Before, we used to throw trash on the sidewalk,” Batista said, adding that containerization is “more organized.”"
+          },
+          {
+            "type": "text",
+            "value": "“I am thrilled that the pathway to full-scale containerization starts in District 7,” Abreu wrote in a statement to Spectator. “In conjunction with new trash set-out times and rat mitigation zones that took effect in early April, this investment in containerization is the final prong in curbing rat infestations.”"
+          },
+          {
+            "type": "text",
+            "value": "Local politicians have shown support for the pilot program, including Representative Adriano Espaillat, who represents the 13th Congressional District, and Manhattan Borough President Mark Levine. They are joined by community activists like Lonnie Portis, New York City policy and advocacy manager at WE ACT for Environmental Justice, and Sharon Waskow, founder of It’s Easy Being Green."
+          },
+          {
+            "type": "text",
+            "value": "“New Yorkers know that our waste system needs a tremendous amount of improvement—we deserve better than sidewalks piled with leaking garbage bags torn open by swarms of rats,” Levine wrote in a press release on Aug. 17. “I’m thrilled that Harlem schools will soon lead the way on waste and recycling with this"
+          },
+          {
+            "type": "text",
+            "value": "containerization pilot program spearheaded by Council member Abreu.”"
+          },
+          {
+            "type": "text",
+            "value": "Some homeowners, however, have vocalized their concerns that there was a lack of communication between the City Council and homeowners. Sean Grennan, a homeowner on 142nd Street,  said that there were some changes to the design of the pilot program that homeowners were not made aware of at the monthly Community Board 9 meeting on Sept. 12."
+          },
+          {
+            "type": "text",
+            "value": "“There was, I think, significant pushback from our street about these containers and so we were excluded from the pilot program.” Grennan said at the CB9 meeting on Sept. 12. “There was no real engagement with homeowners.”"
+          },
+          {
+            "type": "text",
+            "value": "Alfonso Martinez, a West Harlem resident, said that people do not have enough access to the containers, and nonresidents in his neighborhood are not using the new containers. Martinez pointed at different containers and described who was able to use them."
+          },
+          {
+            "type": "text",
+            "value": "“Those containers there are more for the store in the corner … and then the other ones are for that building over there,” Martinez said. “So, what people are doing: Throwing garbage on top of the containers.”"
+          },
+          {
+            "type": "text",
+            "value": "Xia Jiang, a homeowner on 152nd Street, spoke at the CB9 meeting on Sept. 12 and said that there were not enough containers for each block, which has two five-to-six-story buildings."
+          },
+          {
+            "type": "text",
+            "value": "“There’s only three compactors or three trash bins that were put on the block and across the street,” Jiang said at the CB9 meeting on Sept. 12. “It’s just inadequate, and I think trash is going to be piled up in front of my property, and it’s just going to attract more rats.”"
+          },
+          {
+            "type": "text",
+            "value": "Sandra Gomez, a West Harlem resident, echoed these sentiments, speaking to her lack of awareness about the new initiative."
+          },
+          {
+            "type": "text",
+            "value": "“I haven’t seen [the new containers] and I don’t know much about it,” Gomez said."
+          },
+          {
+            "type": "text",
+            "value": "In discussing accessibility, Batista said that she likes the new trash containers because they are lighter."
+          },
+          {
+            "type": "text",
+            "value": "“We have trash cans over there, but they’re a little too heavy,” Batista said. “The top [of the containers] is not metal, so it’s not that heavy.”"
+          },
+          {
+            "type": "text",
+            "value": "A recent complaint about containerization is that they may take up parking space for residents. When asked about this complaint, Delgado said that parking spaces are often unavailable for different reasons, but the containers are a good use of space."
+          },
+          {
+            "type": "text",
+            "value": "“No one’s complaining about the rental car companies taking the parking spaces,” Delgado said. “I think that’s taking up more space than this, and this is healthy because you’re not dealing with rats.”"
+          },
+          {
+            "type": "text",
+            "value": "Martinez said that there was not a lack of space when it came to installing the trash containers and that keeping them on the side of the road makes it easier for truck drivers."
+          },
+          {
+            "type": "text",
+            "value": "“I saw that they were complaining because they couldn’t park,” Martinez said. “So around here, we don’t have that issue. See this space, we have space.”"
+          },
+          {
+            "type": "text",
+            "value": "Gomez does not drive, and she said that she would rather the City Council prioritize lowering the amount of rats residents encounter over parking space concerns."
+          },
+          {
+            "type": "text",
+            "value": "“I’m totally fine with it then, but I can see it being an issue, I guess, for parking,” Gomez said."
+          },
+          {
+            "type": "text",
+            "value": "“The single most effective tactic to winning the war on rats is cutting off access to their food supply,” Abreu wrote in a statement to Spectator. “There is simply no better way to accomplish that than containerization.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy City News Editor Isha Banerjee can be contacted at </i><a href=\"mailto:isha.banerjee@columbiaspectator.com\"><i>isha.banerjee@columbiaspectator.com</i></a><i>. Follow her on Twitter</i><a href=\"https://twitter.com/ishabanerjee20\"><i> @ishabanerjee20.</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Deputy Editor Molly Durawa can be contacted at </i><a href=\"mailto:molly.durawa@columbiaspectator.com\"><i>molly.durawa@columbiaspectator.com</i></a><i>.</i>"
+          }
+        ],
+        "headline": "A week into pilot program, containerization shows promise, sparks controversy in West Harlem",
+        "date": "September 19, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Isha-Banerjee/\">Isha Banerjee</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Molly-Durawa/\">Molly Durawa</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/N5BVSNJ7HNFGVHDYCATYECVUTA.jpg",
+        "cover_caption": "Pippa Tsuki Carlson / Photo Deputy Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/16YD1mwSy-lVNVcIgjSqRWquQHG5OrDmXC6fFdDDSwMM/edit"
       }
     }
   }
